@@ -1,5 +1,7 @@
 ## 👋 Olá, seja bem-vindo! Eu sou o Enzo Turcovic!
 
+Sou um estudante apaixonado pela área de desenvolvimento de sistemas. Sigo buscando constantemente aprimorar minhas habilidades e conhecimentos. Comprometido com meu crescimento profissional, estou dedicado a absorver todo o conhecimento possível nesta área dinâmica e em constante evolução.
+
 <div align="center">
   <table>
     <tr>
@@ -19,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin: 10px;"/>
 </div>
