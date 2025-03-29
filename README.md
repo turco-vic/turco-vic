@@ -29,7 +29,7 @@ Sou um estudante apaixonado pela área de desenvolvimento de sistemas. Sigo busc
 
 <div align="center">
   <br>
-  <a href="https://instagram.com/seu-usuario" target="_blank">
+  <a href="https://www.instagram.com/turco.vic/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin: 20px;"/>
   </a>
   <a href="[https://www.linkedin.com/in/enzo-alves-turcovic-10b7ab201/](https://www.instagram.com/turco.vic/?next=%2Fenzoturc%2F)" target="_blank">
