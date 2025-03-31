@@ -1,6 +1,10 @@
-## 👋 Olá, seja bem-vindo! Eu sou o Enzo Turcovic!
+## 🧑‍💻 Sobre mim
 
-Sou um estudante apaixonado pela área de desenvolvimento de sistemas. Sigo buscando constantemente aprimorar minhas habilidades e conhecimentos. Comprometido com meu crescimento profissional, estou dedicado a absorver todo o conhecimento possível nesta área dinâmica e em constante evolução.
+Sou um estudante apaixonado por desenvolvimento de sistemas!  
+Atualmente, estou aprendendo e aplicando novas tecnologias para aprimorar minhas habilidades.  
+Busco constantemente desafios e oportunidades para crescer na área de tecnologia.
+
+## 📊 GitHub Stats
 
 <div align="center">
   <table>
@@ -15,28 +19,33 @@ Sou um estudante apaixonado pela área de desenvolvimento de sistemas. Sigo busc
   </table>
 </div>
 
-
+## 🐍 Minhas contribuições
 <div align="center">
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://github.com/turco-vic/turco-vic/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </div>
 
+## 🚀 Tecnologias que utilizo
 
 <div align="center">
   <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
+</div>
+
+## 📫 Contato
+
+<div align="center">
   <a href="https://www.instagram.com/turco.vic/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin: 20px;"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/enzo-alves-turcovic-10b7ab201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 20px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:enzoturcovic@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 20px;"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
