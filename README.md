@@ -21,7 +21,7 @@ Busco constantemente desafios e oportunidades para crescer na área de tecnologi
 
 ## 🐍 Minhas contribuições
 <div align="center">
-  <img src="https://github.com/turco-vic/turco-vic/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/turco-vic/turco-vic/main/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation">
 </div>
 
 ## 🚀 Tecnologias que utilizo
