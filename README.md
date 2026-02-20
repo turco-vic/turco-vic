@@ -15,10 +15,10 @@
 ## 🧑‍💻 Sobre mim
 ```typescript
 const enzo = {
-  nome:        "Enzo Alves Turcovic",
+  nome:        "Enzo Turcovic",
   localização: "Brasil 🇧🇷",
   função:      "Estudante & Dev em formação",
-  objetivo:    "Crescer na área de tecnologia resolvendo desafios reais",
+  objetivo:    "Crescer na área de tecnologia resolvendo desafios reai, contribuindo para um mundo melhor!",
   curiosidade: "Sempre escutando música 🎸",
 };
 ```
