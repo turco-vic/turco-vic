@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header with typing effect via readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Enzo!+%F0%9F%91%8B;Analista+e+Desenvolvedor+de+Sistemas+%F0%9F%92%BB;Apaixonado+por+Tecnologia+%F0%9F%9A%80;Sempre+aprendendo+algo+novo!+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Enzo!+%F0%9F%91%8B;Desenvolvedor+de+Sistemas+%F0%9F%92%BB;Apaixonado+por+Tecnologia+%F0%9F%9A%80;Sempre+aprendendo+algo+novo!+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 <br>
 
