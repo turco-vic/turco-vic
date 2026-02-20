@@ -103,7 +103,7 @@ const enzo = {
 
 <br>
 
-*"Se for humanamente possível, considere que está ao seu alcance"*
+*"Se for humanamente possível, considere que está ao seu alcance."*
 
 </div>
 
