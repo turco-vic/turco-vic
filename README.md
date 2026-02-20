@@ -123,6 +123,3 @@ const enzo = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer&fontSize=20" />
 </div>
-```
-
-> ⚠️ **Atenção:** No bloco de código TypeScript da seção "Sobre mim", as três crases de fechamento (` ``` `) aparecem com espaços aqui para não quebrar a formatação do chat. No GitHub, coloque-as sem espaço: ` ``` ` → ```` ``` ````
