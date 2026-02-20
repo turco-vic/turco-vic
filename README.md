@@ -57,7 +57,7 @@ const enzo = {
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turco-vic&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turco-vic&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -67,7 +67,9 @@ const enzo = {
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turco-vic&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=turco-vic&theme=github_dark)
+&nbsp;
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=turco-vic&theme=github_dark&utcOffset=-3)
 
 </div>
 
