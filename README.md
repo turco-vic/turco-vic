@@ -23,7 +23,7 @@ const enzo = {
   objetivo:    "Crescer na área de tecnologia resolvendo desafios reais",
   curiosidade: "Sempre com café na mão ☕",
 };
-` ` `
+```
 
 ---
 
