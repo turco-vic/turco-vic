@@ -57,7 +57,7 @@ const enzo = {
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turco-vic&layout=donut&theme=github_dark&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turco-vic&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800)
 
 </div>
 
@@ -67,7 +67,7 @@ const enzo = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=turco-vic&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turco-vic&theme=github_dark)
 
 </div>
 
