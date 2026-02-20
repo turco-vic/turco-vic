@@ -18,10 +18,8 @@ const enzo = {
   nome:        "Enzo Alves Turcovic",
   localização: "Brasil 🇧🇷",
   função:      "Estudante & Dev em formação",
-  foco:        ["Desenvolvimento de Sistemas", "Web Dev", "Banco de Dados"],
-  aprendendo:  ["Node.js", "Docker", "APIs REST"],
   objetivo:    "Crescer na área de tecnologia resolvendo desafios reais",
-  curiosidade: "Sempre com café na mão ☕",
+  curiosidade: "Sempre escutando música 🎸",
 };
 ```
 
@@ -93,17 +91,6 @@ const enzo = {
 
 ---
 
-## 🎯 Objetivos para 2025
-
-- [x] Aprender TypeScript com profundidade
-- [x] Dominar React e componentização
-- [ ] Construir uma API REST completa com Node.js
-- [ ] Fazer deploy de um projeto fullstack
-- [ ] Contribuir para um projeto open-source
-- [ ] Aprender Docker e conteinerização
-
----
-
 ## 📫 Vamos nos conectar!
 
 <div align="center">
@@ -114,7 +101,7 @@ const enzo = {
 
 <br>
 
-*"O melhor momento para começar foi ontem. O segundo melhor momento é agora."*
+*"Se for humanamente possível, considere que está ao seu alcance"*
 
 </div>
 
