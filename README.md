@@ -57,7 +57,7 @@ const enzo = {
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turco-vic&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=turco-vic&theme=github_dark)
 
 </div>
 
