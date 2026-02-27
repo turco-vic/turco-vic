@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=header&fontSize=20" />
+</div>
+
 <!-- Animated header with typing effect via readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Enzo!+%F0%9F%91%8B;Software+Developer!+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast!+%F0%9F%93%9A)](https://git.io/typing-svg)
 <br>
