@@ -115,7 +115,7 @@ const enzo = {
 
 <br>
 
-*"Se for humanamente possível, considere que está ao seu alcance."*
+*"Certifica-te de que és fator de soma para as pessoas de cujas vidas participas."*
 
 </div>
 
